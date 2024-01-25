@@ -1,10 +1,10 @@
 <!--
 **jgome284/jgome284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-### Hi there, I'm Jose! 👋
 - 🔭 I’m currently working on polishing my full-stack expertise by practicing skills on the front end.
 - 📫 Find me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-miguel-gomez-03ba16129/) !
+-->
+
+## Hi there, I'm Jose! (◕ヮ◕)ﾉ
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
