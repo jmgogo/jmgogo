@@ -12,7 +12,7 @@ Want to connect? You can find me on [![Linkedin Badge](https://img.shields.io/ba
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,cpp&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,html,css,cpp&perline=6)](https://skillicons.dev)
 
 ### Tools
 [![My Tools](https://skillicons.dev/icons?i=docker,vscode,linux,ubuntu,bash,md,git,github,gitlab,figma,raspberrypi,arduino&perline=6)](https://skillicons.dev)
