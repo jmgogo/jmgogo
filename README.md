@@ -15,7 +15,7 @@ Want to connect? You can find me on [![Linkedin Badge](https://img.shields.io/ba
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,html,css,cpp&perline=6)](https://skillicons.dev)
 
 ### Tools
-[![My Tools](https://skillicons.dev/icons?i=docker,vscode,linux,ubuntu,bash,md,git,github,gitlab,figma,raspberrypi,arduino&perline=6)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=docker,vscode,windows,linux,ubuntu,bash,md,git,github,gitlab,postman,figma,raspberrypi,arduino&perline=7)](https://skillicons.dev)
 
 ### Frameworks
-[![My Frameworks](https://skillicons.dev/icons?i=flask,scikitlearn,tensorflow,kubernetes,regex,react,redux,nodejs,npm,deno,bootstrap,jquery,redis,mongodb,sqlite,postgres&perline=8)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=nextjs,tailwind,prisma,postgres,flask,scikitlearn,tensorflow,regex,react,redux,nodejs,npm,deno,redis,mongodb,sqlite,&perline=8)](https://skillicons.dev)
