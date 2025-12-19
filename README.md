@@ -2,7 +2,7 @@
 **jgome284/jgome284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi there! <br> I'm Jose ... <img src="./Hi.gif" width="30px" height="30px"></h1>
+<h1 align="center">Hi there, I'm Jose! <img src="./Hi.gif" width="30px" height="30px"></h1>
 
 I love to code, and do so with anything I can get my hands on! You'll usually find me whittling away at an ever-growing list of personal projects. I am using GitHub to show some of the things I've learned. Follow me, if you need a buddy to learn with along the way!
 
