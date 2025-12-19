@@ -18,4 +18,4 @@ Want to connect? You can find me on [![Linkedin Badge](https://img.shields.io/ba
 [![My Tools](https://skillicons.dev/icons?i=docker,vscode,windows,linux,ubuntu,bash,md,git,github,gitlab,postman,figma,raspberrypi,arduino&perline=7)](https://skillicons.dev)
 
 ### Tech
-[![My Frameworks](https://skillicons.dev/icons?i=nextjs,tailwind,prisma,postgres,flask,scikitlearn,tensorflow,regex,react,redux,nodejs,npm,deno,redis,mongodb,sqlite,&perline=8)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=nextjs,astro,tailwind,prisma,postgres,flask,scikitlearn,tensorflow,react,redux,nodejs,npm,deno,redis,mongodb,sqlite,&perline=8)](https://skillicons.dev)
