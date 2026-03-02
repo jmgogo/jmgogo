@@ -3,8 +3,7 @@
 -->
 
 <h1 align="center">Hi there, I'm Jose! <img src="./Hi.gif" width="30px" height="30px"></h1>
-
-I love to code, and do so with anything I can get my hands on! You'll usually find me whittling away at an ever-growing list of personal projects. I am using GitHub to show some of the things I've learned. Follow me, if you need a buddy to learn with along the way!
+Professional Full Stack Software Engineer with 5+ years of experience building, deploying, and scaling production web applications and AI-powered systems. I love to code, and do so with anything I can get my hands on! You'll usually find me whittling away at an ever-growing list of personal projects. You can stay in touch with what I'm learning on [my website](https://jmgogo.github.io/mysite)!
 
 Want to connect? You can find me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-miguel-gomez-03ba16129/)
 
